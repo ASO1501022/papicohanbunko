@@ -16,7 +16,7 @@ WebSocket.prototype.send = function(category,type,option = 'def'){
         success : function (b) {
         },
         type    : "POST",
-        url     : "http://webdriving.ddns.net/ajax/websocket2"
+        url     : "{対象URL}"
     });
 }
 
@@ -36,7 +36,7 @@ WebSocket.prototype.host = function(id){
             websocket.startReceive('host');
         },
         type    : "POST",
-        url     : "http://webdriving.ddns.net/ajax/websocket2"
+        url     : "{対象URL}"
     });
 }
 WebSocket.prototype.join = function(hostid,userid){
@@ -58,7 +58,7 @@ WebSocket.prototype.join = function(hostid,userid){
             location.href = 'papico.html';
         },
         type    : "POST",
-        url     : "http://webdriving.ddns.net/ajax/websocket2"
+        url     : "{対象URL}"
     });
 }
 WebSocket.prototype.startReceive = function(category){
