@@ -40,14 +40,13 @@
 
 ## 利用環境
 ios10以上の端末同士  
-
 ## 開発環境
 ### サーバーサイド
-言語 : PHP、SQL  
+言語 : PHP、SQL  
 環境 : XAMPP(Apache,MySQL,MariaDB)
 ### フロントエンド
 言語 : HTML5+CSS3、Javascript  
-環境 : Monaca  
+環境 : Monaca
 ### 体制
 チーム人数 : 5人  
 自分の役割 : プログラマー(フロント、バックエンド)、デザイナー、UI/UX  
