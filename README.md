@@ -1,5 +1,7 @@
 # 踏み出せずにいる青春を「パピコはんぶんこ」の一言で解決するかもしれないアプリ
 
+## 動画
+[Hack U OSAKA 2017](https://drive.google.com/file/d/12vGwY4W1YOOgrVPYIKncChFOzQ-ZLr30/view?usp=sharing)
 ## アプリ名
 パピコはんぶんこ
 ## 開発の背景
@@ -40,10 +42,15 @@
 ios10以上の端末同士  
 
 ## 開発環境
-言語 : PHP、HTML5+CSS3、Javascript、SQL  
-環境 : XAMPP(Apache,MySQL,MariaDB)  
-人数 : 5人  
-担当箇所 : プログラマー(フロント、バックエンド)、デザイナー、UI/UX
-
+### サーバーサイド
+言語 : PHP、SQL  
+環境 : XAMPP(Apache,MySQL,MariaDB)
+### フロントエンド
+言語 : HTML5+CSS3、Javascript  
+環境 : Monaca  
+### 体制
+チーム人数 : 5人  
+自分の役割 : プログラマー(フロント、バックエンド)、デザイナー、UI/UX  
+自分の担当箇所 : パピコはんぶんこ用同期通信システム(papicohanbunko/www/js/websocket.js)、パピコを割る判定
 ## 使用ライブラリ
 * jQuery
