@@ -49,7 +49,7 @@ OS : Windows7
 言語 : HTML5+CSS3、Javascript  
 環境 : Monaca
 ### 体制
-チーム人数 : 5人  
+チーム人数 : 5人  
 自分の役割 : プログラマー(フロント、バックエンド)、デザイナー、UI/UX  
 自分の担当箇所 : パピコはんぶんこ用同期通信システム(papicohanbunko/www/js/websocket.js)、パピコを割る判定
 ## 使用ライブラリ
