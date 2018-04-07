@@ -1,4 +1,4 @@
-# 踏み出せずにいる青春を「パピコはんぶんこ」の一言で解決するかもしれないアプリ
+# 踏み出せずにいる青春を「パピコはんぶんこ」の一言で解決できるかもしれないアプリ
 ![交換する連絡先を選ぶ画面](https://drive.google.com/uc?export=view&id=10Ra8UDXYSmu5_pKWceFuj9RbkZwdLv_a)
 ![パピコはんぶんこ後、連絡先を交換した画面](https://drive.google.com/uc?export=view&id=1TG5V-w-pQhW8kN8kro37RVnLI-eFCYrK)
 ## 結果
